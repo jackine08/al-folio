@@ -4,6 +4,7 @@ title: about
 permalink: /
 subtitle: Bachelor's student | University of Seoul
 
+
 profile:
   align: right
   image: prof_pic.png
